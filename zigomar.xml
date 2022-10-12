@@ -1,43 +1,38 @@
 <?xml version="1.0"?>
 <rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-<atom:link type="application/rss+xml" rel="self" href="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"/>
+<atom:link type="application/rss+xml" rel="self" href="https://zigomar.cf/zigomar.xml"/>
 <title>الجزيرة نت</title>
 <a href="https://cafezigomar.cf" target="_blank">قهوة زيقومار</a>
-<managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
+<managingEditor>apps.support@zigomar.cf (Apps Support)</managingEditor>
 <webMaster>apps.support@https://zigomar007.github.io/rss-reader (Apps Support)</webMaster>
 <description>قهوة زيقومار: آخر الأخبار</description>
 <copyright>© 2022 قهوة زيقومار</copyright>
 <lastBuildDate>jeudi, 17 Oct 2022 20:54:49 +0000</lastBuildDate>
 <language>ar</language>
 <image>
-<url>https://cafezigomar.cf/images/coffee2.jpg</url>
+<url>https://zigomar.cf/favicon.ico</url>
 <title>café zigomar</title>
-<link>https://cafezigomar.cf</link>
+<link>https://zigomar.cf</link>
 <description>قهوة زيقومار: آخر أخبار اليوم</description>
 </image>
 <author>بقلم : زيقومار</author>
 <generator>https://wordpress.org/?v=6.0.2</generator>
 <item>
-<link>https://cafezigomar.cf</link>
+<link>https://zigomar.cf</link>
 <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
-<author>
-      <name>Elizabeth Bennet</name> 
-      <email>liz@gmail.com</email> 
-</author>
+<author>Elizabeth Bennet</author>
 <description>
-<![CDATA[ <li> <img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 400px;" /> <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg"/> كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.</li> ]]>
+<![CDATA[ <li> <img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg"/> <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg"/> كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.</li> ]]>
 </description>
+<media:thumbnail url=""/>
 <pubDate>thu, 14 Oct 2022 23:09:42 +0300</pubDate>
 <category>صحة شريبتكم !</category>
 </item>
 <item>
-<link>https://cafezigomar.cf</link>
+<link>https://zigomar.cf</link>
 <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
-<author>
-زدعلي زيقومار
-liz@gmail.com
-  </author>
+<author> زدعلي زيقومار liz@gmail.com </author>
 <description>
 <img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg"/>
 <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg"/>
@@ -47,7 +42,7 @@ liz@gmail.com
 <category>صحة شريبتكم !</category>
 </item>
 <item>
-<guid isPermaLink="true">https://cafezigomar.cf</guid>
+<guid isPermaLink="true">https://zigomar.cf</guid>
 <link>https://cafezigomar.cf</link>
 <title>رواية ليبية تحصد "البوكر" العربية لأول مرة بتاريخ الجائزة</title>
 <author>زدعلي زيقومار</author>
@@ -55,6 +50,6 @@ liz@gmail.com
 <![CDATA[ <img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg"/> <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg"/> كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل. ]]>
 </description>
 <pubDate>Sun, 22 May 2022 18:08:44 Z</pubDate>
-</item> 
+</item>
 </channel>
 </rss>
